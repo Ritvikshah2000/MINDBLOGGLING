@@ -139,7 +139,12 @@ EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'cmptislife@gmail.com'
 EMAIL_HOST_PASSWORD = 'SFUcmpt123'
 
+#################################################################################################################
 
+
+
+
+#####################################################################################################################
 
 
 #tell django-storages the domain to use to refer to static files:
